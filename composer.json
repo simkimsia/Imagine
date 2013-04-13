@@ -1,0 +1,11 @@
+{
+	"name": "simkimsia/imagine",
+	"type": "cakephp-plugin",
+	"config": {
+		"vendor-dir": "Vendor"
+	},
+	"require": {
+		"composer/installers": "~1.0",
+		"imagine/imagine": "0.4.*"
+	}
+}
